@@ -1,0 +1,16 @@
+# Python virtual environments
+churn_env/
+anaconda_projects/
+
+# Large model files
+backend/model/*.pkl
+
+# Large dataset
+backend/customer_churn_dataset-training-master.csv
+
+# Node.js dependencies
+frontend/node_modules/
+
+# Miscellaneous files
+*.docx
+*.db
